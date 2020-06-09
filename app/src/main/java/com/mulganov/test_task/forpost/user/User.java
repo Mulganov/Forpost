@@ -1,4 +1,4 @@
-package com.mulganov.test_task.forpost.ui.main.user;
+package com.mulganov.test_task.forpost.user;
 
 import android.content.Intent;
 import android.graphics.Bitmap;

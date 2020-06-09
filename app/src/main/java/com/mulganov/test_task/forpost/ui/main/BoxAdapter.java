@@ -9,7 +9,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.mulganov.test_task.forpost.R;
-import com.mulganov.test_task.forpost.ui.main.user.User;
+import com.mulganov.test_task.forpost.user.User;
 
 import java.util.ArrayList;
 

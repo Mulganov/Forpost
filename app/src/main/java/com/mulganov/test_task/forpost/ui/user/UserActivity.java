@@ -2,18 +2,13 @@ package com.mulganov.test_task.forpost.ui.user;
 
 import android.os.Bundle;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
-
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 
-import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.mulganov.test_task.forpost.R;
-import com.mulganov.test_task.forpost.ui.main.user.User;
+import com.mulganov.test_task.forpost.user.User;
 
 public class UserActivity extends AppCompatActivity {
 

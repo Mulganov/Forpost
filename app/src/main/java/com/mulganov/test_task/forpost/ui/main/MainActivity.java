@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.widget.ListView;
 
 import com.mulganov.test_task.forpost.R;
-import com.mulganov.test_task.forpost.ui.main.user.User;
+import com.mulganov.test_task.forpost.user.User;
 import com.mulganov.test_task.forpost.ui.user.UserActivity;
 
 import java.util.ArrayList;

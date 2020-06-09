@@ -2,11 +2,10 @@ package com.mulganov.test_task.forpost.ui.main;
 
 import com.mulganov.test_task.forpost.rest.NetworkService;
 import com.mulganov.test_task.forpost.rest.Post;
-import com.mulganov.test_task.forpost.ui.main.user.User;
-import com.mulganov.test_task.forpost.ui.main.user.Users;
+import com.mulganov.test_task.forpost.user.User;
+import com.mulganov.test_task.forpost.user.Users;
 
 import java.util.ArrayList;
-import java.util.List;
 
 import retrofit2.Call;
 import retrofit2.Callback;
