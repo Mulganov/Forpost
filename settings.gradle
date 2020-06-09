@@ -1,0 +1,2 @@
+rootProject.name='Forpost'
+include ':app'
